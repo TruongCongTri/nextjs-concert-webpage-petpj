@@ -58,7 +58,7 @@ const Hero = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.8, type: "keyframes" }}
             className="w-full lg:h-[700px] md:h-[500px] h-[300px] object-cover object-top opacity-100"
-            src="/images/Image4.webp"
+            src="/images/aespa.jpg"
             alt="Image"
           />
           <motion.div
